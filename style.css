@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: rgb(239, 237, 237);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 100px;
+}
+
+
+.logoimg{
+    width: 500px;
+    height:auto;
+    margin-left: -50px;
+
+}
+
+.logoparagraf{
+    width: 500px;
+    margin: auto;
+    font-size: 36px;
+}
+
+
+.sag{
+    background: white;
+    padding: 20px;
+    width: 396px;
+    border-radius: 7px;
+    
+}
+
+.sag a{
+    margin-left: 120px ;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #1877f2;
+
+   
+}
+
+.sag input{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid rgb(239, 237, 237);
+
+}
+
+.sag input::placeholder{
+    color: #90949c;
+}
+
+.girisyap{
+    background-color: #1877f2;
+    color: white;
+    font-size: 22px;
+}
+
+.cizgi{
+    border: 1px solid rgb(239, 237, 237);
+    margin: 10px 0 ;
+}
+
+
+.altyazi{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.altyazi a{
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+}
+
+.yenihesap{
+    color: white;
+    background-color: green;
+    font-size: 18px;
+    width: 200px !important;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+
+
+
+
